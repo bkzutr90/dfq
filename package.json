@@ -1,7 +1,7 @@
 {
-  "name": "rest-api-alpis",
+  "name": "rest-api.justferianss",
   "version": "2.0.0",
-  "description": "make by alip free rest api",
+  "description": "rest api",
   "main": "index.js",
   "engines": {
     "node": "16.x"
@@ -22,7 +22,7 @@
     "bot",
     "whatsaap"
   ],
-  "author": "AlipBot",
+  "author": "Just Ferianss",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlipBot/Api-Alpis/issues"
