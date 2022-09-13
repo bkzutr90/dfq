@@ -899,7 +899,7 @@ router.get('/search/ytplay', async (req, res, next) => {
 				UploadedOn : anu.ago,
 				Author : anu.author.name,
 				Channel : anu.author.url,
-				linldowloader: {
+				linkdl: {
 					mp3: mp3.dl_link,
 					mp4:{ 
 						link: mp4.dl_link,
